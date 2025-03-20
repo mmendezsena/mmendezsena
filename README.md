@@ -2,9 +2,9 @@
 
 I'm Miguel Mendez Sena, a Junior Software Developer
 
-<!-- | Stats              | Top languages |
+| Stats              | Top languages |
 | :---------------- | :------: |
-| [![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmendezsena&show_icons=true&theme=dark)](https://github.com/mmendezsena/github-readme-stats)        |   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmendezsena&layout=compact&theme=dark)   | -->
+| [![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmendezsena&show_icons=true&theme=dark)](https://github.com/mmendezsena/github-readme-stats)        |   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmendezsena&layout=compact&theme=dark)   |
 
 |      Stack      |                                            Technologies                                            |
 | :-------------: | :------------------------------------------------------------------------------------------------: |
